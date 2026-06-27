@@ -1,3 +1,19 @@
+## Nombre del proyecto 
+El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas 
+
+## Nombre Estudiante
+Renata Proaño
+
+## Fecha 
+27/06/2026
+
+## Objetivo
+- Analizar el impacto de las nuevas tecnologías en la sociedad. 
+- Aplicar conocimientos de diseño, programación y arquitectura de software. 
+- Desarrollar un sistema funcional basado en una problemática definida. 
+- Integrar los contenidos de las cuatro unidades de la asignatura. 
+- Reflexionar sobre el uso y futuro de la tecnología en el entorno real.
+
 ## Descripción
 
 Juego de Sudoku desarrollado en Python para la materia de Lógica de Programación. Permite seleccionar un nivel de dificultad, jugar en consola y valida automáticamente las jugadas hasta completar el tablero.
